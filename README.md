@@ -145,9 +145,9 @@ Segue a descrição dos dados tabulares e seus significados
 `AED`: Dirham dos Emirados Árabes Unidos<br>
 
 ### Link dos itens relevantes
-- [Datasets](./datasets/)
-- [Notebook](Preprocessing notebook.ipynb)
-- [Diagrama AWS][./Diagrama Arquitetura AWS.png]
-- [Diagrama Entidade-Relacionamento](./Diagrama Entidade-Relacionamento.png)
-- [Schemas SQL](.\schemas)
-- [Queries SQL](.\queries\queries.sql)
+- [Datasets](https://github.com/o-guilherme/trabalho_d2tec_2022/tree/main/datasets)
+- [Notebook](https://github.com/o-guilherme/trabalho_d2tec_2022/blob/main/Preprocessing%20notebook.ipynb)
+- [Diagrama AWS](https://github.com/o-guilherme/trabalho_d2tec_2022/blob/main/Diagrama%20Arquitetura%20AWS.png)
+- [Diagrama Entidade-Relacionamento](https://github.com/o-guilherme/trabalho_d2tec_2022/blob/main/Diagrama%20Entidade-Relacionamento.png)
+- [Schemas SQL](https://github.com/o-guilherme/trabalho_d2tec_2022/tree/main/schemas)
+- [Queries SQL](https://github.com/o-guilherme/trabalho_d2tec_2022/tree/main/queries)
