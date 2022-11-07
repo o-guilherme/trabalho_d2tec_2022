@@ -91,58 +91,58 @@ Segue a descrição dos dados tabulares e seus significados
 * Arquivo `exchange_rates.csv`<br>
 `index`:  Índice dos dados<br>
 `Date`: Data da observação<br>
-EUR
-GBP
-INR
-AUD
-CAD
-SGD
-CHF
-MYR
-JPY
-CNY
-ARS
-BHD
-BWP
-BRL
-BND
-BGN
-CLP
-COP
-HRK
-CZK
-DKK
-HKD
-HUF
-ISK
-IDR
-IRR
-ILS
-KZT
-KRW
-KWD
-LYD
-MUR
-MXN
-NPR
-NZD
-NOK
-OMR
-PKR
-PHP
-PLN
-QAR
-RON
-RUB
-SAR
-ZAR
-LKR
-SEK
-TWD
-THB
-TTD
-TRY
-AED
+`EUR`: Euro<br>
+`GBP`: Libra esterlina<br>
+`INR`: Rúpia indiana<br>
+`AUD`: Dólar australiano<br>
+`CAD`: Dólar canadense<br>
+`SGD`: Dólar singapuriano<br>
+`CHF`: Franco suíço<br>
+`MYR`: Ringgit malaio<br>
+`JPY`: Iene japonês<br>
+`CNY`: Iuan chinês<br>
+`ARS`: Peso argentino<br>
+`BHD`: Dinar bareinita<br>
+`BWP`: Pula botsuanesa<br>
+`BRL`: Real brasileiro<br>
+`BND`: Dólar bruneano<br>
+`BGN`: Lev búlgaro<br>
+`CLP`: Peso chileno<br>
+`COP`: Peso colombiano<br>
+`HRK`: Kuna croata<br>
+`CZK`: Coroa tcheca<br>
+`DKK`: Coroa dinamarquesa<br>
+`HKD`: Dólar de Hong Kong<br>
+`HUF`: Florim húngar<br>
+`ISK`: Coroa islandesa<br>
+`IDR`: Rupia indonésia<br>
+`IRR`: Rial iraniano<br>
+`ILS`: Novo shekel israelense<br>
+`KZT`: Tenge cazaque<br>
+`KRW`: Won sul-coreano<br>
+`KWD`: Dinar kuwaitiano<br>
+`LYD`: Dinar líbio<br>
+`MUR`: Rupia Mauriciana<br>
+`MXN`: Peso mexicano<br>
+`NPR`: Rupia nepalesa<br>
+`NZD`: Dólar neozelandês<br>
+`NOK`: Coroa norueguesa<br>
+`OMR`: Rial omanense<br>
+`PKR`: Rúpia Paquistanesa<br>
+`PHP`: Peso filipino<br>
+`PLN`: Zloty polonês<br>
+`QAR`: Rial catarense<br>
+`RON`: Leu romeno<br>
+`RUB`: Rublo russo<br>
+`SAR`: Riyal saudita<br>
+`ZAR`: Rand sul-africano<br>
+`LKR`: Rupia cingalesa<br>
+`SEK`: Coroa sueca<br>
+`TWD`: Novo dólar taiwanês<br>
+`THB`: Baht tailandês<br>
+`TTD`: Dólar de Trinidad e Tobago<br>
+`TRY`: Lira turca<br>
+`AED`: Dirham dos Emirados Árabes Unidos<br>
 
 ### Link dos itens artefatos relevantes
 
