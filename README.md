@@ -144,13 +144,10 @@ Segue a descrição dos dados tabulares e seus significados
 `TRY`: Lira turca<br>
 `AED`: Dirham dos Emirados Árabes Unidos<br>
 
-### Link dos itens artefatos relevantes
-
-
-
-
-
-
-
-
-
+### Link dos itens relevantes
+- [Datasets](./datasets/)
+- [Notebook](Preprocessing notebook.ipynb)
+- [Diagrama AWS][./Diagrama Arquitetura AWS.png]
+- [Diagrama Entidade-Relacionamento](./Diagrama Entidade-Relacionamento.png)
+- [Schemas SQL](.\schemas)
+- [Queries SQL](.\queries\queries.sql)
